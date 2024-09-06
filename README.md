@@ -2,6 +2,7 @@
 Access Incognito mode!
 Working as of v127
 Originally I had found a really complex way to get to incognito, so I've summed it down into a more compact and easy way. I'm not sure it will for anyone, but I sure know it works for my Chromebook :P
+
 I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS.
 
 # Instructions
